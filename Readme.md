@@ -1,3 +1,14 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [HomeController.cs](./CS/DevExpressMvcApplication1/Controllers/HomeController.cs) (VB: [HomeController.vb](./VB/DevExpressMvcApplication1/Controllers/HomeController.vb))
+* [ResourceComparer.cs](./CS/DevExpressMvcApplication1/Helpers/ResourceComparer.cs) (VB: [ResourceComparer.vb](./VB/DevExpressMvcApplication1/Helpers/ResourceComparer.vb))
+* [ResourcesSorting.cs](./CS/DevExpressMvcApplication1/Models/ResourcesSorting.cs) (VB: [ResourcesSorting.vb](./VB/DevExpressMvcApplication1/Models/ResourcesSorting.vb))
+* [Scheduling.cs](./CS/DevExpressMvcApplication1/Models/Scheduling.cs) (VB: [Scheduling.vb](./VB/DevExpressMvcApplication1/Models/Scheduling.vb))
+* [Index.cshtml](./CS/DevExpressMvcApplication1/Views/Home/Index.cshtml)
+* [ResourcesSortTypePartial.cshtml](./CS/DevExpressMvcApplication1/Views/Home/ResourcesSortTypePartial.cshtml)
+* [SchedulerPartial.cshtml](./CS/DevExpressMvcApplication1/Views/Home/SchedulerPartial.cshtml)
+<!-- default file list end -->
 # Scheduler - How to sort resources
 
 
