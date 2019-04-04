@@ -3,7 +3,7 @@
 
 * [HomeController.cs](./CS/DevExpressMvcApplication1/Controllers/HomeController.cs) (VB: [HomeController.vb](./VB/DevExpressMvcApplication1/Controllers/HomeController.vb))
 * [Global.asax](./CS/DevExpressMvcApplication1/Global.asax) (VB: [Global.asax](./VB/DevExpressMvcApplication1/Global.asax))
-* [Global.asax.cs](./CS/DevExpressMvcApplication1/Global.asax.cs) (VB: [Global.asax](./VB/DevExpressMvcApplication1/Global.asax))
+* [Global.asax.cs](./CS/DevExpressMvcApplication1/Global.asax.cs) (VB: [Global.asax.vb](./VB/DevExpressMvcApplication1/Global.asax.vb))
 * [ResourceComparer.cs](./CS/DevExpressMvcApplication1/Helpers/ResourceComparer.cs) (VB: [ResourceComparer.vb](./VB/DevExpressMvcApplication1/Helpers/ResourceComparer.vb))
 * [ResourcesSorting.cs](./CS/DevExpressMvcApplication1/Models/ResourcesSorting.cs) (VB: [ResourcesSorting.vb](./VB/DevExpressMvcApplication1/Models/ResourcesSorting.vb))
 * [Scheduling.cs](./CS/DevExpressMvcApplication1/Models/Scheduling.cs) (VB: [Scheduling.vb](./VB/DevExpressMvcApplication1/Models/Scheduling.vb))
