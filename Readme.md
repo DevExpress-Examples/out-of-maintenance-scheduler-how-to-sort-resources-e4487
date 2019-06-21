@@ -9,6 +9,9 @@
 * [Scheduling.cs](./CS/DevExpressMvcApplication1/Models/Scheduling.cs) (VB: [Scheduling.vb](./VB/DevExpressMvcApplication1/Models/Scheduling.vb))
 <!-- default file list end -->
 # Scheduler - How to sort resources
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e4487/)**
+<!-- run online end -->
 
 
 <p>This example shows how you can sort scheduler resources. Actual sorting is performed via the<strong> SchedulerStorage.Resources.Items.Sort()</strong> method that is called inside the <a href="http://documentation.devexpress.com/#AspNet/DevExpressWebMvcSchedulerSettings_ResourceCollectionLoadedtopic"><u>SchedulerSettings.ResourceCollectionLoaded</u></a> delegate.<br />
